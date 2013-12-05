@@ -6,7 +6,7 @@ include './lib.oneLogin.json.php';
 //   print a list of all users
 //
 //
-//     oneLogin_print_users (oneLogin_cquery_userlist());
+//     oneLogin_print_userlist (oneLogin_cquery_userlist());
 //
 
 
